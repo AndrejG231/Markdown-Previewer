@@ -1,2 +1,7 @@
-# React Markdown Previewer
- Front End Development Libraries Projects by FreeCodeCamp - Build a Markdown Previewer
+# Markdown Previewer
+
+Markdown previewer project for freeCodeCamp.org "Front End Development Libraries" certification.
+
+- Webpack
+- React
+- Markdown.js
